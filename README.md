@@ -1,2 +1,2 @@
 # Project-Landing-Page
-Landing page assignment from The Odin Project
+Creating a basic landing page from scratch using HTML & CSS
