@@ -12,3 +12,7 @@ https://pixabay.com/photos/hamster-pets-small-animals-3528445/
 
 Long Tail: Shutterbug75 from Pixabay
 https://pixabay.com/photos/animal-attractive-beautiful-boy-1238228/
+
+Lychee: taken by Eric Chi
+
+Peanut: taken by Eric Chi
