@@ -39,30 +39,40 @@ body {
 .title-container {
     display: flex;
     flex-direction: column;
+    padding-left: 215px;
 }
 
 .hero-title {
     font-size: 48px;
     font-weight: 900;
-    padding-left: 215px;
     color: white;
 }
 
 .hero-secondary {
-    padding-left: 215px;
     font-size: 18px;
     color: #e5e7eb;
 }
 
+.hero-button {
+    background-color: #3882f6;
+    border-radius: 12px;
+    height: 35px;
+    width: 125px;
+    margin-top: 10px;
+    border: none 2px;
+    color: white;
+    font-weight: bold;
+}
+
 .hero-pic {
     max-width: 400px;
-    padding-right: 200px;
+    padding-right: 215px;
 }
 
 ul {
     list-style-type: none;
     padding: 0;
-    padding-right: 200px;
+    padding-right: 215px;
     margin: 0;
     margin-left: auto;
     display: flex;
@@ -75,4 +85,27 @@ ul {
 a {
     text-decoration: none;
     color: #e5e7eb;
+}
+
+.content-header {
+    font-size: 32px;
+    color: #1f2937;
+    text-align: center;
+    font-weight: bolder;
+    padding-top: 50px;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+}
+
+.info {
+    display: flex;
+}
+
+.info-img {
+    display: flex;
+    max-width: 150px;
+    height: 100px;
 }
